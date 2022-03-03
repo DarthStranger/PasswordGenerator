@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/darthstranger/.nuget/packages/": {}
+    "/home/stranger/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/darthstranger/Projects/PasswordGenerator/PasswordGenerator.csproj",
+      "projectUniqueName": "/home/stranger/Projects/PasswordGenerator/PasswordGenerator.csproj",
       "projectName": "PasswordGenerator",
-      "projectPath": "/home/darthstranger/Projects/PasswordGenerator/PasswordGenerator.csproj",
-      "packagesPath": "/home/darthstranger/.nuget/packages/",
-      "outputPath": "/home/darthstranger/Projects/PasswordGenerator/obj/",
+      "projectPath": "/home/stranger/Projects/PasswordGenerator/PasswordGenerator.csproj",
+      "packagesPath": "/home/stranger/.nuget/packages/",
+      "outputPath": "/home/stranger/Projects/PasswordGenerator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/darthstranger/.nuget/NuGet/NuGet.Config"
+        "/home/stranger/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }
